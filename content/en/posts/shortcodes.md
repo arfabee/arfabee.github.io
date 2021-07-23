@@ -22,6 +22,7 @@ image: images/feature3/code-file.png
 This is **boxmd** shortcode
 {{< /boxmd >}}
 
+
 ## Simple box
 
 {{< box >}}
@@ -46,7 +47,7 @@ Make it easy to switch between different code
   ```javascript
   console.log('Hello World!');
   ```
-  
+
   {{< /code >}}
 {{< /codes >}}
 

@@ -26,5 +26,5 @@ reveal:
   - main:
     - sub: 
       - |
-        test 2
+        test 2 💢
 ---
